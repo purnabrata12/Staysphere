@@ -138,7 +138,7 @@ The project follows a clean three-layer architecture: **React** handles the inte
 
 ## 📸 Application gallery
 
-These are the **14 actual application screenshots from the supplied StaySphere ZIP**, renamed with clear GitHub-friendly filenames and bundled into `docs/screenshots/`. All gallery links are relative, so they render directly in GitHub once `README.md` and `docs/` are uploaded together. Selected guest/customer fields were changed to demo text for public sharing.
+All gallery links are relative, so they render directly in GitHub once `README.md` and `docs/` are uploaded together. Selected guest/customer fields were changed to demo text for public sharing.
 
 ### 01 / Welcome to StaySphere
 
