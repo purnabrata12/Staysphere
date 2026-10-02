@@ -138,7 +138,6 @@ The project follows a clean three-layer architecture: **React** handles the inte
 
 ## 📸 Application gallery
 
-All gallery links are relative, so they render directly in GitHub once `README.md` and `docs/` are uploaded together. Selected guest/customer fields were changed to demo text for public sharing.
 
 ### 01 / Welcome to StaySphere
 
